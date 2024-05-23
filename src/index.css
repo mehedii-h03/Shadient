@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .button {
+        @apply btn;
+        @apply px-4 py-2;
+        @apply text-base text-white font-semibold;
+        @apply shadow-sm rounded-full;
+    }
+
+    .primary-btn {
+        @apply button;
+        @apply bg-primary hover:bg-HPrimary;
+    }
+
+    .secondary-btn {
+        @apply button;
+        @apply bg-primary-color hover:bg-HPrimary-color;
+    }
+
+    .outline-btn {
+        @apply button;
+        @apply bg-transparent hover:bg-HPrimary hover:text-white;
+        @apply text-primary-color;
+        @apply shadow-none;
+        @apply border border-primary-color;
+    }
+
+    .ghost-btn {
+        @apply button;
+        @apply rounded-none px-0;
+        @apply bg-transparent hover:bg-transparent;
+        @apply text-[#92CD00];
+        @apply shadow-none;
+        @apply border-none;
+    }
+}
