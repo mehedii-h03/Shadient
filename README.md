@@ -1,6 +1,6 @@
-# Event 360
+# Shdaient
 
-Welcome to the Event Shadient repository! This website represent a Distribution of Relief Goods Management Application.
+Welcome to the Shadient repository! This website represent a Distribution of Relief Goods Management Application.
 
 ## Live link
 
@@ -18,7 +18,7 @@ Welcome to the Event Shadient repository! This website represent a Distribution 
 
 ## Installation
 
-To get started with Event 360:
+To get started with Shadient:
 
 1. Clone this repository: `git clone https://github.com/mehedii-h03/Shadient.git`
 
@@ -30,6 +30,6 @@ To get started with Event 360:
 
 Open your browser and access the website at [http://localhost:5173/](http://localhost:5173/).
 
-## Feel free to explore the Event 360.
+## Feel free to explore the Shadient.
 
-I hope you enjoy using the Event 360 web application. If you have any questions or feedback, please don't hesitate to reach out.
+I hope you enjoy using the Shadient web application. If you have any questions or feedback, please don't hesitate to reach out.
